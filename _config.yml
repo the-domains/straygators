@@ -1,0 +1,14 @@
+layout_spectrum: 0.3269854192622006
+typography_spectrum: 0.7328630161937326
+color:
+  brandStrength: 0.35960742295719683
+  lightness: 0.8596182805486023
+  saturation: 0.7569173809606582
+  rhythmicContrast: 0.3640255746431649
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: straygators
